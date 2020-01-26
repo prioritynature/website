@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://prioritynature.github.io/website/post/2020-01-15-indice-de-perfomance-climatique/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://prioritynature.github.io/website/post/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://prioritynature.github.io/website/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://prioritynature.github.io/website/post/2017-05-15-deux-mains-geantes-sortant-du-canal-de-venise/</loc>
+    <lastmod>2017-05-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://prioritynature.github.io/website/post/2014-11-10-nier-un-probleme-si-les-solutions-pour-le-resoudre-ne-nous-conviennent-pas/</loc>
+    <lastmod>2014-11-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://prioritynature.github.io/website/post/2012-07-10-il-etait-une-fois-un-sac-en-plastique/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://prioritynature.github.io/website/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://prioritynature.github.io/website/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
