@@ -5,7 +5,7 @@ date: 2020-02-01
 --- 
  L'anxiété climatique ou l'éco-anxiété est décrite par l'American Psychological Association comme «une peur chronique du destin environnemental» et comme «un trouble psychologique assez récent affectant un nombre croissant de personnes qui s'inquiètent de la crise environnementale».
 
- Face a cette situation que peut-on faire ?
+ Face à cette situation que peut-on faire ?
 
 1. Reconnaître votre éco-anxiété et en parler
 Un bon début pour lutter contre l'anxiété climatique est de reconnaître factuellement son existancce puis d'en parler avec celles et ceux en qui vous avez confiance. En reconnaissant ce que vous ressentez, cela vous aide à déterminer comment vous pouvez agir pour prendre soin de vous.
