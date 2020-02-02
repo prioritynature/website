@@ -21,8 +21,3 @@ Une autre façon de lutter contre votre anxiété est d'agir! Par exemple en rej
 **S'instruire.**
 
 L'éducation est la première étape vers l'action. En vous éduquant, non seulement vous comprenez ce qui se passe sur notre planète et comment agir pour faire une différence. Vous êtes également en mesure de comprendre la signification réelle de tous ces gros titres effrayants. Il y a encore de l'espoir pour notre planète et des solutions existent. En en apprenant davantage sur la crise climatique, vous vous donner les moyens de comprendre comment agir et plaider pour l'avenir de notre planète.
-
-
-
-
-

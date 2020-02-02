@@ -9,4 +9,3 @@ L'idée principale est la suivante : les gens sont moins susceptibles de croire 
 Ce type de comportement s'inscrit dans un cadre plus large que les psychologues appellent le «raisonnement motivé» : la tendance humaine à former des croyances non pas basées sur une lecture strictement «objective» des faits, mais d'une manière qui offre un certain degré de protection psychologique. Comme l'écrit Campell, "Nous pensons que les politiciens ont des désaccords sur les solutions parce qu'ils ont des désaccords sur les faits, alors qu'en réalité c'est souvent l'inverse: les partisans ont des désaccords sur les faits parce qu'ils sont en désaccord avec les solutions."
 
 Le texte complet de l'étude est disponible sur [l'espace ouvert de l'université de Duke](https://dukespace.lib.duke.edu/dspace/)
-
