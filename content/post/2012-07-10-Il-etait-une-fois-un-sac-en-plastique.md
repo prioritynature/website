@@ -8,4 +8,4 @@ Le dilemme de la gestion des déchets au Kirghizistan est un problème permanent
 
 Aida Sulova est une artiste de rue du Kirghizistan a décidé de lancer une campagne artistique intitulée «Il était une fois un sac en plastique.» dans l'espoir d'inspirer ses concitoyens à créer un avenir meilleur pour leurs enfants. De nombreux pays dans le monde sont également aux prises avec des problèmes de gestion des déchets, qui restent souvent sans solution.
 
-Cette campagne nous rappelle s'il en était encore temps qu'en polluant son environement l'homme finit par s'intoxiquer lui même.
+Cette campagne nous rappelle qu'en polluant son environement l'homme finit par s'intoxiquer lui-même.
