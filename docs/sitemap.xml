@@ -3,21 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://prioritynature.github.io/website/post/2020-01-15-indice-de-perfomance-climatique/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <loc>https://prioritynature.github.io/website/post/2020-02-01-comment-definir-anxiete-climatique-et-comment-lutter-contre/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://prioritynature.github.io/website/post/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://prioritynature.github.io/website/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://prioritynature.github.io/website/post/2020-01-15-indice-de-perfomance-climatique/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
