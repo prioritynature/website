@@ -3,21 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://prioritynature.github.io/website/post/2020-02-22-la-france-ne-respecte-pas-accord-paris/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <loc>https://prioritynature.github.io/website/post/2020-02-22-extinction-especes/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://prioritynature.github.io/website/post/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://prioritynature.github.io/website/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://prioritynature.github.io/website/post/2020-02-22-la-france-ne-respecte-pas-accord-paris/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
