@@ -3,21 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://prioritynature.github.io/website/post/2020-02-22-extinction-especes/</loc>
-    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://prioritynature.github.io/website/post/</loc>
-    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://prioritynature.github.io/website/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://prioritynature.github.io/website/post/2020-04-27-suivez-les-dirigeants/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://prioritynature.github.io/website/post/2020-02-22-extinction-especes/</loc>
     <lastmod>2020-02-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
