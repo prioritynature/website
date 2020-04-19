@@ -8,7 +8,7 @@ Nous savons qu'il est beaucoup plus difficile de supporter 35°C dans la jungle 
 
 Chaque croix sur ce graphique indique l'une de ces combinaisons. Celles qui se situent à droite de la courbe rouge sont létales ("Deadly") pour le coprs humain après six heures d'exposition. 
 
-Armés de cette quantification, les chercheurs ont voulu ensuite savoir dans quelles régions du monde et pendant combien de jours par an de telles conditions létales allaient se produire. En suivant les trajectoires d'évolution de la températeure et de l'humidité d'ici la fin du siècle associées au scénario RCP8.5 du GIEC, ils ont pû établir la carte suivante (ce scénario est celui du "Business as Usual" sur lequel l'humanité est embarquée en 2020):
+Armés de cette quantification, les chercheurs ont voulu ensuite savoir dans quelles régions du monde et pendant combien de jours par an de telles conditions létales allaient se produire. En suivant les trajectoires d'évolution de température et d'humidité d'ici la fin du siècle associées au scénario RCP8.5 du GIEC, ils ont pû établir la carte suivante (ce scénario est celui du "Business as Usual" sur lequel l'humanité est embarquée en 2020):
 
 ![Support]({{< resource url="images/post-un-couple-mortel-GFFBCKSFGC.png" >}})
 
