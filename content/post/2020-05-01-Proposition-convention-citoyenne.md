@@ -2,10 +2,11 @@
 title: "Proposition convention citoyenne"
 date: 2020-05-01
 ---
-Propositions postées sur le site de la [convention citoyenne](https://www.conventioncitoyennepourleclimat.fr/en/)
+Propositions postées sur le site de la [convention citoyenne](https://www.conventioncitoyennepourleclimat.fr/en/).
 
 
-Proposition N°1 : Vie Animale & Structure Défaisance
+Proposition N°1 : Vie Animale & Structure Défaisance:
+
 "
 Bonjour,
 
@@ -38,7 +39,8 @@ Priority Nature
 "
 
 
-Proposition N°2 : Viande & Fonction Publique
+Proposition N°2 : Viande & Fonction Publique:
+
 "
 Bonjour,
 
