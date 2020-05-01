@@ -25,6 +25,7 @@ Le financement de cette structure est assuré par la création d'une nouvelle TV
 - (b) de la date visée pour la fin du démantèlement de tous les actifs
 - (c) de la diminution de la consommation de viande en France
 - (d) des critères (i), (ii) et (iii) ci-dessus
+
 A vous d'imaginer son assiette.
 
 Un autre dispositif doit traiter de l'importation de viande en France.
