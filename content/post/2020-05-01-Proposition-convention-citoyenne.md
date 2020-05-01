@@ -5,7 +5,7 @@ date: 2020-05-01
 Propositions postées sur le site de la [Convention Citoyenne pour le Climat 2020](https://www.conventioncitoyennepourleclimat.fr/en/).
 
 
-Proposition N°1 : Vie Animale & Structure Défaisance:
+**Proposition N°1 : Vie Animale & Structure Défaisance**
 
 "
 Bonjour,
@@ -29,7 +29,7 @@ A vous d'imaginer son assiette.
 
 Un autre dispositif doit traiter de l'importation de viande en France.
 
-L'OBJECTIF DE CETTE STRUCTURE EST LE DÉMANTÈLEMENT DE TOUS CES ACTIFS.
+**L'OBJECTIF DE CETTE STRUCTURE EST LE DÉMANTÈLEMENT DE TOUS CES ACTIFS.**
 
 Ce type de contribution qui n'a rien d'extrémiste nous permet d'entrer un peu dans le dur (interdiction glyphosate = micro décision). Notre gastronomie n'est pas sacro-sainte.
 
@@ -39,7 +39,7 @@ Priority Nature
 "
 
 
-Proposition N°2 : Viande & Fonction Publique:
+**Proposition N°2 : Viande & Fonction Publique**
 
 "
 Bonjour,
